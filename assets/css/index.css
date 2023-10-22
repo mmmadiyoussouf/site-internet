@@ -1,0 +1,12 @@
+@import "./font.css";
+@import "./body.css";
+
+body {
+  /*
+  background: linear-gradient(#0b79a6, #0b79a6);*/
+  background: url("../../img/fond.jpeg") no-repeat fixed;
+  background-size: cover;
+  /*min-height: 700px;*/
+  height: 100vh;
+  width: 100%;
+}
